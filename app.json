@@ -8,12 +8,12 @@
   "stack": "container",
   "env": {
     "DATABASE_URL": {
-      "description": "your mongodb database url",
+      "description": "mongodb+srv://m-saad001:<password>@saad01.268bdgk.mongodb.net/",
       "required": false,
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "Xlicon_508ce65d-58c3-40c5-b094-883ee26ccc7d",
       "required": true,
       "value": ""
     },
